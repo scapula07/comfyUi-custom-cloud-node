@@ -22,7 +22,7 @@ https://github.com/nathannlu/ComfyUI-Cloud/assets/24965772/b53888a1-8e9a-4ddb-91
 
 
 
-## Comfy Cloud Plugin Installation
+## Comfy Cloud Plugin Installation,Get started
 
 > Plugin lets you execute workflows on a cloud GPU, even if your laptop does not have one.
 
